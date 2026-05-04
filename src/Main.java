@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Dan: " + dt.getDayOfMonth());
         System.out.println("Mjesec: "+dt.getMonth());
         System.out.println("Sat: "+dt.getHour());
+        System.out.println("Minute: "+dt.getMinute());
 
     }
 
